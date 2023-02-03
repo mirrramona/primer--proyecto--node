@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "harry potter y la piedra filosofal",
+    "autor":"j.k.rowling",
+    "year": 1997,
+    "type": "libro",
+    "gender": "novela",
+    "imgenUrl":"https://http2.mlstatic.com/D_NQ_NP_910684-MLA47724725603_102021-O.webp"
+  },
+  {
+    "id": 2,
+    "title": "amanecer",
+    "autor": "stephenie meyer",
+    "year": 2008,
+    "type": "libro",
+    "gender": "novela románica",
+    "imagenUrl": "https://www.penguinlibros.com/ar/2129878/amanecer-saga-crepusculo-4.jpg"
+  },
+  {
+    "id": 3,
+    "title": "el senor de los anillos",
+    "autor": "j.r.r tolkien",
+    "year": 1937 ,
+    "type": "libro",
+    "gender": "literatura fantastica",
+    "imageUrl": "https://images.cdn1.buscalibre.com/fit-in/360x360/66/1a/661a3760157941a94cb8db3f5a9d5060.jpg"
+  },
+  {
+    "id": 4,
+    "title": "el alquimista",
+    "autor": "paulo coelho",
+    "year": 1988,
+    "type": "libro",
+    "gender": "drama",
+    "imageUrl": "https://imgserver1.fierro.com.ar/get/thumb/188/272/HERCI-PLA4002969=9789504903581.jpg?randomize=1"
+  },
+  {
+    "id": 5,
+    "title": "cazadores de sombras",
+    "autor": "cassandra clare",
+    "year": 2007,
+    "type": "libro",
+    "gender": "novela",
+    "imageUrl": "https://contentv2.tap-commerce.com//cover/large/9789507321276_1.jpg?id_com=1174"
+  },
+  {
+    "id": 6,
+    "title": "hijas de la nueva era",
+    "autor": "carmen korn",
+    "year": 2016,
+    "type": "libro",
+    "gender": "ficcion historica",
+    "imageUrl": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/314/m_libros/portada_hijas-de-una-nueva-era_carmen-korn_202003051530.jpg"
+  },
+  {
+    "id": 7,
+    "title": "los miserables",
+    "autor": "victor hugo",
+    "year": 1862,
+    "type": "libro",
+    "gender": "novela",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ebcosette.jpg/200px-Ebcosette.jpg"
+  },
+  {
+    "id": 8,
+    "title": "cien anos de soledad",
+    "autor": "gabriel garcia marquez",
+    "year": 1967,
+    "type": "libro",
+    "gender": "novela fantastica",
+    "imageUrl": "http://mlm-s1-p.mlstatic.com/cien-anos-de-soledad-de-gabriel-garcia-marquez-13327-MLM73300753_9398-F.jpg"
+  },
+  {
+    "id": 9,
+    "title": "violeta",
+    "autor": "isabel allende",
+    "year":2022 ,
+    "type": "libro",
+    "gender": "ficcion historica",
+    "imageUrl": "https://sbslibreria.vteximg.com.br/arquivos/ids/304469-1000-1000/9789500766647.jpg"
+  },
+  {
+    "id": 10,
+    "title": "mujeres del alma mia",
+    "autor": "isabel allende",
+    "year": 2020,
+    "type": "libro",
+    "gender": " novela de amor",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_994166-MLA43734030304_102020-O.jpg"
+  },
+  {
+    "id": 11,
+    "title": "don quijote",
+    "autor": "miguel de cervantes",
+    "year": 1605,
+    "type": "libro",
+    "gender": "novela realista",
+    "imageUrl": "https://imgserver1.fierro.com.ar/get/thumb/188/272/HERCI-GRA956316370=9789563162370.jpg?randomize=1"
+  },
+  {
+    "id": 12,
+    "title": "codigo da vinci",
+  "autor": "dan brown",
+    "year": 2003,
+    "type": "libro",
+    "gender": "ficcion",
+    "imageUrl": "https://sbslibreria.vteximg.com.br/arquivos/ids/243023-1000-1000/9789875806733.jpg"
+  },
+  {
+    "id": 13,
+    "title": "pinocho",
+    "autor": "carlo collodi",
+    "year": 1881,
+    "type": "libro",
+    "gender": "literatura infantil",
+    "imageUrl": "https://www.eltiempo.com/files/image_640_428/files/crop/uploads/2022/04/12/6255df71d48b4.r_1649814954664.0-500-2400-1701.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "el principito",
+    "autor": "antoine de saint exupery",
+    "year": 1943,
+    "type": "libro",
+    "gender": "literatura infantil",
+    "imageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/ee/51/ee513da2b43ecd37f02872f2a70ea597.jpg"
+  },
+  {
+    "id": 15,
+    "title": "la huerfana",
+    "autor": "stella cameron",
+    "year": 2009,
+    "type": "libro",
+    "gender": "terror",
+    "imageUrl": "https://images.cdn2.buscalibre.com/fit-in/360x360/0e/20/0e200ebe81de52f66eb50924c126abfe.jpg"
+  },
+  {
+    "id": 16,
+    "title": "romeo y julieta",
+    "autor": "william shakespeare",
+    "year":1593 ,
+    "type": "libro",
+    "gender": "Drama y romance ",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_797767-MLA27008267554_032018-O.jpg"
+  }
+]
